@@ -5,6 +5,8 @@ st.write(
     "Let's start building! OMG!!! For help and inspiration, head over to [docs.streamlit.io](https://docs.streamlit.io/)."
 )
 
+# 마이크로 잠깐 질문 좀하려하는데, 괜찮으신가요?
+
 # #===임의의 그래프 그리기===============================================================#
 # import streamlit as st
 # import pandas as pd
